@@ -11,6 +11,7 @@ I was busy with development of a whole new Viewdeo App, with awesome new feature
 
 1. Use the app by sharing links to Viewdeo from other Apps like Reddit, Instagarm, Giphy and Gfycat.
 2. Copy links and Paste them on the History Page.
+3. Long press files to delete or share
 
 ## Free and Full version have Same features
 
