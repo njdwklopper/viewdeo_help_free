@@ -1,7 +1,11 @@
 # Viewdeo
 
-Viewdeo has gone through some massive changes recently. 
-I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, Viewdeo is still working.
+Viewdeo has gone through some massive changes recently. Viewdeo needs a massive rework, Android has changed the way developers can save files.
+There is too much to do to make this change, but I'd rather have a wroking app.
+
+Viewdeo can still download files to the app just as always, and you can still share those files to other apps.
+Your previous downloaded files should still be where they were downloaded before, but just not visible in the Viewdeo App
+CAREFUL: Clearing Viewdeo Cache will delete it's current videos, to save them select and share them to your Files App of choice
 
 # [Remove Advertising, get Full version](https://play.google.com/store/apps/details?id=com.tegnatiek.veddit.full).
 
@@ -19,7 +23,7 @@ Both the Full and Free version of Viewdeo now have the exact same features, wher
 
 ## Downloading
 
-Files are Downloaded (With Permissions from you) to your **Download** Folder under ```viewdeo```
+Files are Downloaded to the Viewdeo App now, you won't see the files in your Photos/Files Apps anymore
 
 ## Sharing
 
