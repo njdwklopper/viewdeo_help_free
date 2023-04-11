@@ -11,7 +11,7 @@ CAREFUL: Clearing Viewdeo Cache will delete it's current videos, to save them se
 
 # [Remove Advertising, get Full version](https://play.google.com/store/apps/details?id=com.tegnatiek.veddit.full).
 
-[Post Viewdeo Issues Here](https://www.reddit.com/r/ViewdeoApp/new/).
+# [Post Viewdeo Issues Here](https://github.com/njdwklopper/viewdeo_help/issues/new/choose).
 
 # How to use
 
