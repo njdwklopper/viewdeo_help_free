@@ -7,7 +7,7 @@ Viewdeo can still download files to the app just as always, and you can still sh
 Your previous downloaded files should still be where they were downloaded before, but just not visible in the Viewdeo App
 CAREFUL: Clearing Viewdeo Cache will delete it's current videos, to save them select and share them to your Files App of choice
 
-## [Privacy Policy](https://njdwklopper.github.io/viewdeo_help/Policy.html)
+## [Privacy Policy](https://njdwklopper.github.io/viewdeo_help_free/Policy.html)
 
 # [Remove Advertising, get Full version](https://play.google.com/store/apps/details?id=com.tegnatiek.veddit.full).
 
